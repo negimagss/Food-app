@@ -1,7 +1,7 @@
 {
-  "name": "forkify",
+  "name": "food-app preview",
   "version": "1.0.0",
-  "description": "forkify project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
